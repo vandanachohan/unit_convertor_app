@@ -53,20 +53,6 @@ pip install module_name
 4. **Click the "Convert 🚀" button** to get results.
 5. **Copy the result** if needed.
 
----
-
-## ⚠️ Troubleshooting
-- **Clipboard error?** Run:
-  ```bash
-  pip install --no-cache-dir pyperclip
-  ```
-- **Streamlit not found?** Run:
-  ```bash
-  pip install streamlit
-  ```
-- **Currency conversion not working?** API integration required for real-time rates.
-
----
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
